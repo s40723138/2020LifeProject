@@ -21,15 +21,57 @@
 <v t="yen.20200703212105.1"><vh>@edit blogger_json_to_pickle.py</vh></v>
 </v>
 <v t="yen.20200703210535.1"><vh>@path markdown</vh>
-<v t="leo.20200711003026.1"><vh>@clean 20200712.md</vh>
-<v t="leo.20200711003026.2"><vh>代理主機維護策略</vh></v>
-<v t="leo.20200712132435.1"><vh>3812914169877627303</vh></v>
+<v t="leo.20200714145111.1"><vh>@clean 20200712.md</vh>
+<v t="leo.20200714145111.2"><vh>代理主機維護策略</vh></v>
+<v t="leo.20200714145111.3"><vh>3812914169877627303</vh></v>
+</v>
+<v t="leo.20200711003026.1"><vh>@clean 20200714.md</vh>
+<v t="leo.20200711003026.2"><vh>clonezilla硬碟複製</vh></v>
+<v t="leo.20200714152253.1"><vh>8110861485742898256</vh></v>
 </v>
 </v>
 </v>
 </vnodes>
 <tnodes>
 <t tx="leo.20200711003026.1">@language md
+---
+Title: Jul 14.日誌
+Date: 2020-07-14 15:00
+Category: 日誌
+Tags: clonezilla
+Slug: stratege-for-proxy-servers
+Author: yiqing
+
+Clonezilla硬碟複製
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
+<t tx="leo.20200711003026.2">Clonezilla硬碟複製
+==================
+
+1. 確認以下插上和放入,在進行開機
+-------------------------------------------------
+* 資料來源硬碟(a)
+* 存放資料硬碟(b)
+* clonezilla光碟
+
+2. 開機時案F12進入clonezila的畫面接下來會跑出設定
+--------------------------------------------------------------------------
+* 語言
+* 鍵盤
+
+3. 複製方式選擇磁碟對磁碟(disk to disk)
+--------------------------------------------------------
+4. 硬碟來源選擇a,接收選擇b
+-------------------------------------------
+5. 其他設定都接選擇預設(按Enter)
+---------------------------------------------
+6. 複製完成之後選擇 power off
+-----------------------------------------------
+7. 關機後就可以把b磁碟拿起
+--------------------------------------------------
+Ps:接收硬碟需比主硬碟大     b&gt;a</t>
+<t tx="leo.20200714145111.1">@language md
 ---
 Title: Blogger
 Date: 2020-07-12 21:30
@@ -44,7 +86,7 @@ Author: yiqing
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
 @others</t>
-<t tx="leo.20200711003026.2">需要安裝兩個程式庫
+<t tx="leo.20200714145111.2">需要安裝兩個程式庫
 ----
     pip install google-api-python-client oauth2client
     
@@ -86,7 +128,8 @@ https://2019wcm.blogspot.com/2019/03/posted-via-python.html
    
 
 </t>
-<t tx="leo.20200712132435.1"></t>
+<t tx="leo.20200714145111.3"></t>
+<t tx="leo.20200714152253.1"></t>
 <t tx="yen.20200703210017.1"></t>
 <t tx="yen.20200703210032.1">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
