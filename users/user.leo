@@ -21,6 +21,9 @@
 <v t="yen.20200703212105.1"><vh>@edit blogger_json_to_pickle.py</vh></v>
 </v>
 <v t="yen.20200703210535.1"><vh>@path markdown</vh>
+<v t="leo.20200714161423.1"><vh>@clean 暑假.md</vh>
+<v t="leo.20200714161423.2"><vh>暑假</vh></v>
+</v>
 <v t="leo.20200714145111.1"><vh>@clean 20200712.md</vh>
 <v t="leo.20200714145111.2"><vh>代理主機維護策略</vh></v>
 <v t="leo.20200714145111.3"><vh>3812914169877627303</vh></v>
@@ -130,6 +133,34 @@ https://2019wcm.blogspot.com/2019/03/posted-via-python.html
 </t>
 <t tx="leo.20200714145111.3"></t>
 <t tx="leo.20200714152253.1"></t>
+<t tx="leo.20200714161423.1">@language md
+---
+Title: 2020SUMMERPROJECT
+Date: 2020-07-14 16:00
+Category: 日誌
+Tags: blogger
+Slug: stratege-for-proxy-servers
+Author: yiqing
+
+2020SUMMERPROJECT
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
+<t tx="leo.20200714161423.2">2020SUMMERPROJECT
+=====================
+組員Blogger
+-----------------
+* 40723150: &lt;https://s40723150.github.io/UniversityProject/blog/&gt;
+* 40723110: &lt;https://40723110svsp.blogspot.com/&gt;
+
+SUMMERPROJECT重點
+--------------------------------
+* 複製0810教室的磁碟，學會防寫卡硬碟複製
+* clonezilla硬碟複製
+* 架設深度學習的主機 
+* 學會Keras(Python編寫的開源神經網路庫)和Pytorch(開源的Python機器學習庫)
+* 看會Keras的電子書學會影像辨識手寫數字
+* 持續進步</t>
 <t tx="yen.20200703210017.1"></t>
 <t tx="yen.20200703210032.1">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
