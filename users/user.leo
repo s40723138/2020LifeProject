@@ -32,6 +32,10 @@
 <v t="leo.20200711003026.2"><vh>clonezilla硬碟複製</vh></v>
 <v t="leo.20200714152253.1"><vh>8110861485742898256</vh></v>
 </v>
+<v t="leo.20200715213407.1"><vh>@clean 20200715.md</vh>
+<v t="leo.20200715213407.2"><vh>OpenAi</vh></v>
+<v t="leo.20200715213925.1"><vh>638487448766836877</vh></v>
+</v>
 </v>
 </v>
 </vnodes>
@@ -136,7 +140,7 @@ https://2019wcm.blogspot.com/2019/03/posted-via-python.html
 <t tx="leo.20200714161423.1">@language md
 ---
 Title: 2020SUMMERPROJECT
-Date: 2020-07-14 16:00
+Date: 2020-07-15 21:40
 Category: 日誌
 Tags: blogger
 Slug: stratege-for-proxy-servers
@@ -161,6 +165,43 @@ SUMMERPROJECT重點
 * 學會Keras(Python編寫的開源神經網路庫)和Pytorch(開源的Python機器學習庫)
 * 看會Keras的電子書學會影像辨識手寫數字
 * 持續進步</t>
+<t tx="leo.20200715213407.1">@language md
+---
+Title: Jul 15.日誌
+Date: 2020-07-14 15:00
+Category: 日誌
+Tags: OpenAi
+Slug: stratege-for-proxy-servers
+Author: yiqing
+
+OpenAi &amp; Gym
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
+<t tx="leo.20200715213407.2">OpenAi &amp; Gym
+==================
+參考網址:
+------------------------
+* Programming method for reinforcement learning using Python&lt;https://easyai.tech/blog/reinforcement-learning-with-python/&gt;
+* DOTA2 OpenAI.5 vs pro player&lt;https://youtu.be/eaBYhLttETw&gt;
+* Github-opebai/gym &lt;https://github.com/openai/gym&gt;
+
+* * *
+
+簡易的AI程式設計構想
+-----------------------------------
+* status(狀態)，狀態是對世界完整的描述，可能是位置，常數，或動態
+
+* action(行動)，行動會根據不同的環境，做為改變，而這些行動通常都是有限的，並且被記錄
+
+* surroundings(環境)，這是互動的地方。對於不同類型的環境，我們使用不同的獎勵，政策等
+
+* 獎勵和回報：獎勵函數R是必須在強化學習中一直被跟踪的函數。
+它在調整，優化算法和停止訓練算法方面起著至關重要的作用。
+這取決於當前的世界狀況，剛剛採取的行動以及世界的下一個狀態。
+
+* 策略：策略是代理用於選擇下一個操作的規則，這些也稱為代理大腦。</t>
+<t tx="leo.20200715213925.1"></t>
 <t tx="yen.20200703210017.1"></t>
 <t tx="yen.20200703210032.1">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
