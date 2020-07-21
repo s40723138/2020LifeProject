@@ -36,6 +36,10 @@
 <v t="leo.20200715213407.2"><vh>OpenAi</vh></v>
 <v t="leo.20200715213925.1"><vh>638487448766836877</vh></v>
 </v>
+<v t="leo.20200721143313.1"><vh>@clean 20200720.md</vh>
+<v t="leo.20200721143313.2"><vh>整理教室</vh></v>
+<v t="leo.20200721144311.1"><vh>1618500497590111438</vh></v>
+</v>
 </v>
 </v>
 </vnodes>
@@ -175,33 +179,59 @@ Slug: stratege-for-proxy-servers
 Author: yiqing
 
 OpenAi &amp; Gym
+==============
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
 @others</t>
-<t tx="leo.20200715213407.2">OpenAi &amp; Gym
-==================
-參考網址:
+<t tx="leo.20200715213407.2">參考網址:
 ------------------------
-* Programming method for reinforcement learning using Python&lt;https://easyai.tech/blog/reinforcement-learning-with-python/&gt;
-* DOTA2 OpenAI.5 vs pro player&lt;https://youtu.be/eaBYhLttETw&gt;
+* Programming method for reinforcement learning using Python &lt;https://easyai.tech/blog/reinforcement-learning-with-python/&gt;
+* DOTA2 OpenAI.5 vs pro player &lt;https://youtu.be/eaBYhLttETw&gt;
 * Github-opebai/gym &lt;https://github.com/openai/gym&gt;
 
 * * *
 
 簡易的AI程式設計構想
 -----------------------------------
-* status(狀態)，狀態是對世界完整的描述，可能是位置，常數，或動態
+* Status(狀態)：狀態是對世界完整的描述，可能是位置，常數，或動態
 
-* action(行動)，行動會根據不同的環境，做為改變，而這些行動通常都是有限的，並且被記錄
+* Action(行動)：行動會根據不同的環境，做為改變，而這些行動通常都是有限的，並且被記錄
 
-* surroundings(環境)，這是互動的地方。對於不同類型的環境，我們使用不同的獎勵，政策等
+* Surroundings(環境)：這是互動的地方。對於不同類型的環境，我們使用不同的獎勵，政策等
 
-* 獎勵和回報：獎勵函數R是必須在強化學習中一直被跟踪的函數。
+* Rewards and rewards(獎勵和回報)：獎勵函數R是必須在強化學習中一直被跟踪的函數。
 它在調整，優化算法和停止訓練算法方面起著至關重要的作用。
 這取決於當前的世界狀況，剛剛採取的行動以及世界的下一個狀態。
 
-* 策略：策略是代理用於選擇下一個操作的規則，這些也稱為代理大腦。</t>
+* 策略：策略是代理用於選擇下一個操作的規則，這些也稱為代理大腦</t>
 <t tx="leo.20200715213925.1"></t>
+<t tx="leo.20200721143313.1">@language md
+---
+Title: Jul 20.日誌
+Date: 2020-07-21 14:30
+Category: 日誌
+Tags: 日誌
+Slug: stratege-for-proxy-servers
+Author: yiqing
+
+整理教室、重灌Ubuntu 20.04
+==============
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
+<t tx="leo.20200721143313.2">整理教室
+------------------------
+* 將還有用的電腦零件回收利用
+* 把有用的書整理放置伺服器房
+
+
+* * *
+
+重灌Ubuntu 20.04
+------------------------
+* 準備之後跑AI時需要的硬體設備
+* 大台的電腦灌Windows 小台的灌Ubuntu </t>
+<t tx="leo.20200721144311.1"></t>
 <t tx="yen.20200703210017.1"></t>
 <t tx="yen.20200703210032.1">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
