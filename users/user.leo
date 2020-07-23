@@ -40,6 +40,13 @@
 <v t="leo.20200721143313.2"><vh>整理教室</vh></v>
 <v t="leo.20200721144311.1"><vh>1618500497590111438</vh></v>
 </v>
+<v t="leo.20200723143435.1"><vh>@clean 20200721.md</vh>
+<v t="leo.20200723143435.2"><vh>整理資料</vh></v>
+<v t="leo.20200723143935.1"><vh>4676328079806431913</vh></v>
+</v>
+<v t="leo.20200723063944.1"><vh>@clean 20200722.md</vh>
+<v t="leo.20200723063944.2"><vh>整理資料</vh></v>
+</v>
 </v>
 </v>
 </vnodes>
@@ -232,6 +239,91 @@ Author: yiqing
 * 準備之後跑AI時需要的硬體設備
 * 大台的電腦灌Windows 小台的灌Ubuntu </t>
 <t tx="leo.20200721144311.1"></t>
+<t tx="leo.20200723063944.1">@language md
+---
+Title: Jul 22.日誌
+Date: 2020-07-23 14:30
+Category: 日誌
+Tags: 日誌
+Slug: stratege-for-proxy-servers
+Author: yiqing
+
+整理老師資料
+==============
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
+<t tx="leo.20200723063944.2">整理資料
+------------------------
+Gitter老師給的資料:
+-----------------------------------------
+* 407231 專題希望先由 PyTorch 執行 CoppeliaSim. 中的車牌影像辨識開始, 逐步利用 openai-gym-pytorch 進行強化學習的研究, 初步的
+* 407231 專題, 需要兩人負責研究 Keras, 可以從下載 Deep Learning With Python 並且下載 kmol2021.7z, 可以利用協同設計室中的 Nvidia 獨立顯卡進行配置 cuda 運算, 逐一了解如何利用 Keras 進行機器學習. 407231 專題另外兩人則可下載 Deep Learning With Pytorch, 先研究如何使用 Pytorch 進行手寫數字的辨識.
+
+* * *
+
+參考資料:
+
+* &lt;https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148&gt;
+* &lt;https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53&gt;
+* &lt;https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2&gt;
+* &lt;https://iq.opengenus.org/fully-connected-layer/&gt;
+* &lt;https://medium.com/intuitionmachine/pytorch-dynamic-computational-graphs-and-modular-deep-learning-7e7f89f18d1&gt;
+* &lt;https://github.com/hominhtri1996/DQN-with-Pytorch-and-OpenAI-Gym&gt;
+* &lt;https://github.com/roclark/openai-gym-pytorch&gt;
+* &lt;https://openai.com/blog/spinning-up-in-deep-rl/&gt;
+* &lt;https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html&gt;
+* &lt;https://towardsdatascience.com/learning-reinforcement-learning-reinforce-with-pytorch-5e8ad7fc7da0&gt;
+* &lt;https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial&gt;
+* &lt;https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch&gt;
+* &lt;https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html&gt;</t>
+<t tx="leo.20200723143435.1">@language md
+---
+Title: Jul 21.日誌
+Date: 2020-07-23 14:30
+Category: 日誌
+Tags: 日誌
+Slug: stratege-for-proxy-servers
+Author: yiqing
+
+整理老師資料
+==============
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
+<t tx="leo.20200723143435.2">整理資料
+------------------------
+Gitter老師給的資料:
+-----------------------------------------
+407231 的專題題目, 定為:
+
+Application of reinforcement learning in design and control of mechatronic systems
+強化學習在機電系統設計與控制中之應用 (組長: 40723150)
+
+初步研究目標:
+
+* 整理 reinforcement learning 教學資料, 建立網際學習資源.
+* 利用 OpenAI gym 讓 Webots 與 CoppeliaSim 中的四輪傳動車學習如何倒車入庫
+* 利用 OpenAI gym 讓 Webots 與 CoppeliaSim 中的四輪傳動車學習如何路邊平行停車
+
+* * *
+
+
+初步參考資料:
+----------------------
+
+* &lt;https://easyai.tech/en/blog/reinforcement-learning-with-python/&gt;
+* &lt;https://github.com/openai/gym&gt;
+* &lt;https://github.com/bhyang/gym-vrep&gt;
+* &lt;https://arxiv.org/pdf/1608.05742.pdf&gt;
+* &lt;https://github.com/stepjam/PyRep&gt;
+* &lt;https://arxiv.org/abs/1906.11176&gt;
+* &lt;https://github.com/ycps/vrep-env&gt;
+* &lt;https://towardsdatascience.com/learning-to-drive-smoothly-in-minutes-450a7cdb35f4&gt;
+* &lt;https://github.com/araffin/learning-to-drive-in-5-minutes&gt;
+* &lt;https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/&gt;
+* &lt;https://upcommons.upc.edu/bitstream/handle/2117/133279/tfm-alex-cabaneros.pdf&gt;</t>
+<t tx="leo.20200723143935.1"></t>
 <t tx="yen.20200703210017.1"></t>
 <t tx="yen.20200703210032.1">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
