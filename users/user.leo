@@ -21,8 +21,8 @@
 <v t="yen.20200703212105.1"><vh>@edit blogger_json_to_pickle.py</vh></v>
 </v>
 <v t="yen.20200703210535.1"><vh>@path markdown</vh>
-<v t="leo.20200714161423.1"><vh>@clean 暑假.md</vh>
-<v t="leo.20200714161423.2"><vh>暑假</vh></v>
+<v t="leo.20200727155853.1"><vh>@clean 暑假.md</vh>
+<v t="leo.20200727155853.2"><vh>暑假</vh></v>
 </v>
 <v t="leo.20200714145111.1"><vh>@clean 20200712.md</vh>
 <v t="leo.20200714145111.2"><vh>代理主機維護策略</vh></v>
@@ -46,6 +46,22 @@
 </v>
 <v t="leo.20200723063944.1"><vh>@clean 20200722.md</vh>
 <v t="leo.20200723063944.2"><vh>整理資料</vh></v>
+</v>
+<v t="leo.20200727155912.1"><vh>@clean 20200723.md</vh>
+<v t="leo.20200727155912.2"><vh>整理資料</vh></v>
+<v t="leo.20200727160421.1"><vh>7496946915943659304</vh></v>
+</v>
+<v t="leo.20200727080454.1"><vh>@clean 20200724.md</vh>
+<v t="leo.20200727080454.2"><vh>建立伺服器</vh></v>
+<v t="leo.20200727080922.1"><vh>7216161048567786671</vh></v>
+</v>
+<v t="leo.20200727080940.1"><vh>@clean 20200725.md</vh>
+<v t="leo.20200727080940.2"><vh>耍費</vh></v>
+<v t="leo.20200727081127.1"><vh>2606438812008430689</vh></v>
+</v>
+<v t="leo.20200727081138.1"><vh>@clean 20200726.md</vh>
+<v t="leo.20200727081138.2"><vh>耍費</vh></v>
+<v t="leo.20200727081713.1"><vh>8515942012638946731</vh></v>
 </v>
 </v>
 </v>
@@ -148,34 +164,6 @@ https://2019wcm.blogspot.com/2019/03/posted-via-python.html
 </t>
 <t tx="leo.20200714145111.3"></t>
 <t tx="leo.20200714152253.1"></t>
-<t tx="leo.20200714161423.1">@language md
----
-Title: 2020SUMMERPROJECT
-Date: 2020-07-15 21:40
-Category: 日誌
-Tags: blogger
-Slug: stratege-for-proxy-servers
-Author: yiqing
-
-2020SUMMERPROJECT
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-@others</t>
-<t tx="leo.20200714161423.2">2020SUMMERPROJECT
-=====================
-組員Blogger
------------------
-* 40723150: &lt;https://s40723150.github.io/UniversityProject/blog/&gt;
-* 40723110: &lt;https://40723110svsp.blogspot.com/&gt;
-
-SUMMERPROJECT重點
---------------------------------
-* 複製0810教室的磁碟，學會防寫卡硬碟複製
-* clonezilla硬碟複製
-* 架設深度學習的主機 
-* 學會Keras(Python編寫的開源神經網路庫)和Pytorch(開源的Python機器學習庫)
-* 看會Keras的電子書學會影像辨識手寫數字
-* 持續進步</t>
 <t tx="leo.20200715213407.1">@language md
 ---
 Title: Jul 15.日誌
@@ -324,6 +312,114 @@ Application of reinforcement learning in design and control of mechatronic syste
 * &lt;https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/&gt;
 * &lt;https://upcommons.upc.edu/bitstream/handle/2117/133279/tfm-alex-cabaneros.pdf&gt;</t>
 <t tx="leo.20200723143935.1"></t>
+<t tx="leo.20200727080454.1">@language md
+---
+Title: Jul 24.日誌
+Date: 2020-07-27 16:00
+Category: 日誌
+Tags: 日誌
+Slug: stratege-for-proxy-servers
+Author: yiqing
+
+練習建立伺服器
+==============
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
+<t tx="leo.20200727080454.2">建立伺服器
+------------------------
+參考資料
+* &lt;https://s40723150.github.io/UniversityProject/blog/Jul_21_%202020.html&gt;
+
+本想嘗試利用遠端控制桌面，但網域不同無法連接
+
+
+* * *
+
+ #尚未完成</t>
+<t tx="leo.20200727080922.1"></t>
+<t tx="leo.20200727080940.1">@language md
+---
+Title: Jul 25.日誌
+Date: 2020-07-27 16:00
+Category: 日誌
+Tags: 日誌
+Slug: stratege-for-proxy-servers
+Author: yiqing
+
+搬新宿舍
+==============
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
+<t tx="leo.20200727080940.2">耍費，搬新宿舍，感謝幫忙的同學：）</t>
+<t tx="leo.20200727081127.1"></t>
+<t tx="leo.20200727081138.1">@language md
+---
+Title: Jul 26.日誌
+Date: 2020-07-27 16:00
+Category: 日誌
+Tags: 日誌
+Slug: stratege-for-proxy-servers
+Author: yiqing
+
+幫家人慶生
+==============
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
+<t tx="leo.20200727081138.2">阿罵來虎尾慶生</t>
+<t tx="leo.20200727081713.1"></t>
+<t tx="leo.20200727155853.1">@language md
+---
+Title: 2020SUMMERPROJECT
+Date: 2020-07-15 21:40
+Category: 日誌
+Tags: blogger
+Slug: stratege-for-proxy-servers
+Author: yiqing
+
+2020SUMMERPROJECT
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
+<t tx="leo.20200727155853.2">2020SUMMERPROJECT
+=====================
+組員Blogger
+-----------------
+* 40723150: &lt;https://s40723150.github.io/UniversityProject/blog/&gt;
+* 40723110: &lt;https://40723110svsp.blogspot.com/&gt;
+
+SUMMERPROJECT重點
+--------------------------------
+* 複製0810教室的磁碟，學會防寫卡硬碟複製
+* clonezilla硬碟複製
+* 架設深度學習的主機 
+* 學會Keras(Python編寫的開源神經網路庫)和Pytorch(開源的Python機器學習庫)
+* 看會Keras的電子書學會影像辨識手寫數字
+* 持續進步</t>
+<t tx="leo.20200727155912.1">@language md
+---
+Title: Jul 23.日誌
+Date: 2020-07-27 16:00
+Category: 日誌
+Tags: 日誌
+Slug: stratege-for-proxy-servers
+Author: yiqing
+
+看老師資料
+==============
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
+<t tx="leo.20200727155912.2">看Gitter上老師給的電子書:
+-----------------------------------------
+&lt;https://drive.google.com/file/d/1tofwQZBpb-cApownNTREDLgF-nd7WgoU/view&gt;
+
+* * *
+
+* 進度34/552</t>
+<t tx="leo.20200727160421.1"></t>
 <t tx="yen.20200703210017.1"></t>
 <t tx="yen.20200703210032.1">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
